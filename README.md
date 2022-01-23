@@ -1,4 +1,4 @@
-# RESTful API with Express and MySQL
+# Create PDF Letter from Template
 This repository is the coding test from Intership Campuspedia. 
 
 ## Getting Started
